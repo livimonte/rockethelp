@@ -1,4 +1,4 @@
-package com.rockethelp;
+package com.livimonte.rockethelp;
 
 import android.os.Build;
 import android.os.Bundle;
