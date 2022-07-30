@@ -1,8 +1,8 @@
-<p style="text-align: center">
+<p align="center">
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contribute">Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license"><img alt="GitHub license" src="https://img.shields.io/badge/License-MIT-informational.svg" style="display: inline; vertical-align: middle"></a>
+  <a href="#license">MIT License</a>
 </p>
 
 ## Project
@@ -82,4 +82,4 @@ Also check the [CODE_OF_CONDUCT.md](./.github/CODE_OF_CONDUCT.md)
 
 ## License
 
-This project is [MIT Licensed](./.github/LICENSE)
+This project is [MIT Licensed](./LICENSE)
